@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
   
 </br>
-<a href = "https://github.com/Hun-Se"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 </p> 
 
 </br>
@@ -35,7 +35,7 @@
 
 <p>
   
-### GitHub stats  
+<h3> GitHub stats </h3>  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SNAIL963&theme=ayu-mirage&show_icons=true)](https://github.com/SNAIL963/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNAIL963&theme=ayu-mirage&show_icons=true)](https://github.com/SNAIL963/github-readme-stats)
