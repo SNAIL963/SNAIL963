@@ -51,7 +51,6 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jtjdgus509)](https://solved.ac/jtjdgus509)
 
 </p>
-
 </br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=200&section=footer)
