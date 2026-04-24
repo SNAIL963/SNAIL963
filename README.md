@@ -36,6 +36,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SNAIL963&theme=ayu-mirage&show_icons=true)](https://github.com/SNAIL963/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNAIL963&theme=ayu-mirage&show_icons=true)](https://github.com/SNAIL963/github-readme-stats)
+![solved.ac 카드](https://solvedac-readme-stats.vercel.app/api?handle=jtjdgus509&v=2&streak=false)
 
 </p>  
 
