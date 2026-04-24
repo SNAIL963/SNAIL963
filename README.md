@@ -36,7 +36,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SNAIL963&theme=ayu-mirage&show_icons=true)](https://github.com/SNAIL963/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNAIL963&theme=ayu-mirage&show_icons=true)](https://github.com/SNAIL963/github-readme-stats)
-![solved.ac 카드](https://solvedac-readme-stats.vercel.app/api?handle=jtjdgus509&v=2&streak=false)
 
 </p>  
 
@@ -46,6 +45,7 @@
 <p>
 <h3> Problem Solving </h3>
 
+![solved.ac 카드](./solvedac-jtjdgus509-v1.svg)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jtjdgus509)](https://solved.ac/jtjdgus509)
 
 </p>
